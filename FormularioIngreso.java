@@ -1,5 +1,6 @@
 /*Elaborado por Rafael Guevara
-Ejemplo pestañas swing*/
+Ejemplo pestañas swing
+*/
 package com.rd.ventanas;
 
 import java.awt.BorderLayout;
